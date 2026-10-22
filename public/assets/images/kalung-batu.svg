@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Kalung Batu Bumi">
+<rect width="720" height="760" fill="#e9dfd1"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<path d="M220 215 Q360 620 500 215" fill="none" stroke="#8c775e" stroke-width="9" stroke-linecap="round"/><g fill="#788267" stroke="#f0e4d1" stroke-width="5"><circle cx="240" cy="300" r="18"/><circle cx="263" cy="355" r="18"/><circle cx="290" cy="405" r="18"/><circle cx="320" cy="448" r="18"/><circle cx="360" cy="470" r="25"/><circle cx="400" cy="448" r="18"/><circle cx="430" cy="405" r="18"/><circle cx="457" cy="355" r="18"/><circle cx="480" cy="300" r="18"/></g>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Kalung Batu Bumi</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Tempat Pensil Kayu">
+<rect width="720" height="760" fill="#eadfce"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<rect x="190" y="300" width="340" height="230" rx="18" fill="#b8875e" stroke="#906743" stroke-width="8"/><path d="M210 350 Q300 320 390 350 T510 350 M210 410 Q300 380 390 410 T510 410 M210 470 Q300 440 390 470 T510 470" stroke="#e0bd91" stroke-width="8" fill="none"/><ellipse cx="360" cy="300" rx="170" ry="26" fill="#d4a77a" stroke="#906743" stroke-width="8"/>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Tempat Pensil Kayu</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Keranjang Rami Natural">
+<rect width="720" height="760" fill="#e7d9c4"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<path d="M235 350 Q235 210 360 210 Q485 210 485 350" fill="none" stroke="#9b7048" stroke-width="22"/><path d="M185 350 L535 350 L495 570 Q360 620 225 570Z" fill="#c69b6b" stroke="#956b43" stroke-width="8"/><path d="M205 390 L515 390 M215 430 L510 430 M220 470 L505 470 M225 510 L500 510 M235 550 L490 550" stroke="#ead4ad" stroke-width="10"/><path d="M250 355 L270 585 M300 350 L320 600 M350 350 L360 605 M400 350 L400 600 M450 350 L440 585" stroke="#a87b4f" stroke-width="8"/>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Keranjang Rami Natural</text>
+</svg>

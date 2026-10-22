@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Vas Keramik Terra">
+<rect width="720" height="760" fill="#e3e5d9"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<path d="M305 170 L415 170 L410 250 Q430 290 470 350 Q490 410 460 520 Q440 590 360 595 Q280 590 260 520 Q230 410 250 350 Q290 290 310 250Z" fill="#bd7e5d" stroke="#9d654a" stroke-width="7"/><ellipse cx="360" cy="172" rx="56" ry="17" fill="#e7b99a" stroke="#9d654a" stroke-width="7"/><path d="M285 390 Q360 420 435 390 M275 440 Q360 470 445 440" stroke="#e6b99a" stroke-width="9" fill="none" opacity=".8"/>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Vas Keramik Terra</text>
+</svg>

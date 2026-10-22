@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Tas Anyam Senja">
+<rect width="720" height="760" fill="#e8d6bd"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<path d="M235 300 Q235 190 360 190 Q485 190 485 300" fill="none" stroke="#76583e" stroke-width="24" stroke-linecap="round"/><path d="M190 300 Q360 260 530 300 L500 575 Q360 625 220 575Z" fill="#b98558" stroke="#8b603f" stroke-width="7"/><path d="M220 335 L500 335 M216 375 L505 375 M212 415 L510 415 M208 455 L505 455 M212 495 L502 495 M216 535 L498 535" stroke="#e5c99f" stroke-width="10"/><path d="M250 300 L270 585 M300 285 L320 600 M350 280 L360 605 M400 285 L400 600 M450 295 L440 590" stroke="#8e623f" stroke-width="8" opacity=".85"/>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Tas Anyam Senja</text>
+</svg>

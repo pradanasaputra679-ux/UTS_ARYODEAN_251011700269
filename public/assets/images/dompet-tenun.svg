@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" role="img" aria-label="Dompet Tenun Pagi">
+<rect width="720" height="760" fill="#e6d7c4"/>
+<circle cx="565" cy="150" r="118" fill="#ffffff" opacity=".22"/>
+<path d="M0 590 Q180 540 360 595 T720 570 V760 H0Z" fill="#fffaf0" opacity=".58"/>
+<ellipse cx="360" cy="640" rx="190" ry="28" fill="#5b5145" opacity=".12"/>
+<rect x="190" y="280" width="340" height="250" rx="25" fill="#b37a51" stroke="#85583c" stroke-width="8"/><path d="M210 320 H510 M210 365 H510 M210 410 H510 M210 455 H510" stroke="#e4c69f" stroke-width="7" opacity=".8"/><path d="M190 465 Q360 490 530 465 V510 Q360 550 190 510Z" fill="#926344"/><circle cx="470" cy="488" r="12" fill="#e5c99f"/>
+<text x="360" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#4e5146">Dompet Tenun Pagi</text>
+</svg>
